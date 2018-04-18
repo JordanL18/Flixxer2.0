@@ -1,0 +1,6 @@
+framework module Pods_flixxerTests {
+  umbrella header "Pods-flixxerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
